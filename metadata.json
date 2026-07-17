@@ -1,0 +1,6 @@
+{
+  "name": "AuraMarket Multi-Vendor Storefront",
+  "description": "A high-end, premium multi-vendor e-commerce marketplace storefront featuring interactive boutique collections, persistent real-time shopping cart sidebar, and a non-technical small business merchant inventory portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
